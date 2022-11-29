@@ -1,3 +1,12 @@
+// File: app.component.spec.ts
+// Author: Lukács Eszter
+// Copyright: 2022, Lukács Eszter
+// Group: Szoft II/N
+// Date: 2022-11-29
+// Github: https://github.com/lukacseszter/
+// Licenc: GNU GPL
+
+
 import { TestBed } from '@angular/core/testing';
 import { AppComponent } from './app.component';
 
